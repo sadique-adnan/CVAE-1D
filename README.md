@@ -1,2 +1,2 @@
 # CVAE-1D
-Convolutional Variational Autoencdoers-1D
+Convolutional Variational Autoencoders-1D
